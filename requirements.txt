@@ -1,0 +1,16 @@
+beautifulsoup4
+bs4
+certifi
+click
+Flask
+Flask-Cors
+gunicorn
+idna
+itsdangerous
+Jinja2
+MarkupSafe
+requests
+six
+soupsieve
+urllib3
+Werkzeug
